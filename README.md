@@ -16,3 +16,4 @@ FX-PRO:https://www.asus.com.cn/Laptops/FX-PRO/
 - Intel HD 530
 - Camera
 - Keyboard
+- lan
